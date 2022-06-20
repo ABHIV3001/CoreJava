@@ -1,0 +1,9 @@
+package Excercise4point14;
+
+public class Ex5thReverse {
+public static void main(String[] args) {
+	for(int i=10; i>0; i--) {
+		System.out.println(i);
+	}
+}
+}
